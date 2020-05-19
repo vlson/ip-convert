@@ -1,0 +1,13 @@
+
+{
+    "name":             "vlson/ip-convert",
+    "description":      "convert Ip address",
+    "keywords":         ["IP", "convert"],
+    "time":             "2020-05-19",
+    "license":          "MIT",
+    "authors": [{
+        "name":         "vlson",
+        "email":        "vlson0929@gmail.com",
+        "role":         "developer"
+    }]
+}
